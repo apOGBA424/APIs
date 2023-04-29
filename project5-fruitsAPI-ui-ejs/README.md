@@ -5,7 +5,7 @@
 <h5>
     <details>
         <summary>TOOLS</summary>
-        NodeJs | Express | MongoDB | Mongoose 
+        HTML | CSS | Javascript |   NodeJs | Express | EJS
     </details>
 </h5> <br><hr><br><br>
 
